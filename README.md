@@ -1,3 +1,3 @@
 <h1 align="center">
-  <img alt="GoBarber" title="GoBarber" src=".github/Logo.png" />
+  <img alt="Be The Hero" title="GoBarber" src=".github/Logo.png" />
 </h1>
